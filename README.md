@@ -32,3 +32,5 @@ This is not a guide for TcXaeShell, please visit http://beckhoff.com/ for furthe
 * Login and set the PLC running
 * Open the HMI in live view
 
+## Acknowledgements
+https://github.com/thdoan/strftime
